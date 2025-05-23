@@ -1,4 +1,4 @@
-<h3>controls:<h3/> <br>
+<h3>controls:<h3/>
 SPACE pro skákání <br>
 Levý ALT pro reset <br>
 F1-F5 pro těžký songy <br>
